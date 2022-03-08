@@ -1,6 +1,8 @@
 # Docker - quanTIseq
 Docker image with quanTIseq installed
 
+[![Docker Repository on Quay](https://quay.io/repository/hdc-workflows/quantiseq/status "Docker Repository on Quay")](https://quay.io/repository/hdc-workflows/quantiseq)
+
 The quanTIseq tool is designed to estimate the proportional abundance of
 lymphocyte cell types from bulk RNA sequencing data. The tool can be run
 from either FASTQ files (paired- or single-end) or from a TSV with the
