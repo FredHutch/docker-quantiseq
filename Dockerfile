@@ -38,6 +38,3 @@ RUN Rscript /tmp/dependencies.R
 
 #Clean up
 RUN rm -rf /tmp/* /var/tmp/* ~/.cache/*
-
-# entrypoint
-ENTRYPOINT ["/opt/quantiseq/quanTIseq.sh"]
